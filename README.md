@@ -28,15 +28,12 @@
 
 <p align="center">
 <a href="https://github.com/naaoufal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naaoufal&theme=algolia&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naaoufal&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mekarbal&theme=algolia&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mekarbal&layout=compact&langs_count=8&theme=algolia"/>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=naaoufal&theme=rogue" height=250 alt="graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=mekarbal&theme=rogue" height=250 alt="graph"/>
 </a>
 </p>
 
 ***
-
-<h2>My Portfolio :</h2>
-<p>https://naaoufal.github.io/portfolio/</p>
 
