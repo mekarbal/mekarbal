@@ -19,18 +19,5 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-***
 
-### My Github Stats ###
-
-<p align="center">
-<a href="https://github.com/naaoufal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mekarbal&theme=algolia&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mekarbal&layout=compact&langs_count=8&theme=algolia"/>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=mekarbal&theme=rogue" height=250 alt="graph"/>
-</a>
-</p>
-
-***
 
