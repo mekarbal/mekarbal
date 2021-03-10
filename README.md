@@ -5,7 +5,7 @@
 ### Tech Stack
 
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![Spring-boot](https://img.shields.io/badge/-Spring-boot-05122A?style=flat&logo=spring-boot)&nbsp;
+![Spring boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
